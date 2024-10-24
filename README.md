@@ -54,22 +54,22 @@ The EP-RRT* algorithm was evaluated in diverse environments to compare its effic
 ### 1. General Environment
 A basic open space with minimal obstacles, showcasing the algorithm's general performance.
 
-![General Environment](https://link_to_general_environment_image)
+![General Environment](results_general_environment.png)
 
 ### 2. Cluttered Environment
 A dense, obstacle-filled environment simulating urban settings.
 
-![Cluttered Environment](https://link_to_cluttered_environment_image)
+![Cluttered Environment](results_cluttered_environment.png)
 
 ### 3. Narrow Corridor Environment
 A long, thin passageway, designed to assess the algorithm's performance in constrained spaces.
 
-![Narrow Corridor](https://link_to_narrow_corridor_image)
+![Narrow Corridor](results_narrow_map.png)
 
 ### 4. Maze Environment
 A complex maze with multiple dead ends and pathways, testing the algorithm's efficiency to its limits.
 
-![Maze Environment](https://link_to_maze_environment_image)
+![Maze Environment](results_maze_map.png)
 
 ## Conclusion
 
