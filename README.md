@@ -52,22 +52,22 @@ EP-RRT* builds upon the RRT* framework by implementing the following techniques:
 The EP-RRT* algorithm was evaluated in diverse environments to compare its efficacy with traditional RRT* and RRT-Connect. Below are the results from various experimental setups:
 
 ### 1. General Environment
-A basic open space with minimal obstacles, showcasing the algorithm's general performance.
+A basic open space with minimal obstacles, showcasing the algorithm's general performance. In the image below, the first algorithm depicted from the left is RRT*, followed by RRT-Connect*, with the EP-RRT* algorithm showcased on the far right, highlighting the comparative performance of each approach. 
 
 ![General Environment](results_general_environment.png)
 
 ### 2. Cluttered Environment
-A dense, obstacle-filled environment simulating urban settings.
+A dense, obstacle-filled environment simulating urban settings. In the image below, the first algorithm depicted from the left is RRT*, followed by RRT-Connect*, with the EP-RRT* algorithm showcased on the far right, highlighting the comparative performance of each approach.
 
 ![Cluttered Environment](results_cluttered_environment.png)
 
 ### 3. Narrow Corridor Environment
-A long, thin passageway, designed to assess the algorithm's performance in constrained spaces.
+A long, thin passageway, designed to assess the algorithm's performance in constrained spaces. In the image below, the first algorithm depicted from the left is RRT*, followed by RRT-Connect*, with the EP-RRT* algorithm showcased on the far right, highlighting the comparative performance of each approach.
 
 ![Narrow Corridor](results_narrow_map.png)
 
 ### 4. Maze Environment
-A complex maze with multiple dead ends and pathways, testing the algorithm's efficiency to its limits.
+A complex maze with multiple dead ends and pathways, testing the algorithm's efficiency to its limits. In the image below, the first algorithm depicted from the left is RRT*, followed by RRT-Connect*, with the EP-RRT* algorithm showcased on the far right, highlighting the comparative performance of each approach.
 
 ![Maze Environment](results_maze_map.png)
 
